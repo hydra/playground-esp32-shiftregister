@@ -20,7 +20,7 @@ enum
 //#  error "Build in release mode!"
 #endif
 
-#define SOFTWARE_CS
+//#define SOFTWARE_CS
 
 void setup() {
   pinMode(22, OUTPUT);
